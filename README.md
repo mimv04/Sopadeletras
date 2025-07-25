@@ -20,7 +20,7 @@ Va mucho más allá de simplemente mirar números; se revisan los procesos, la g
 
 Hoy en día, contamos con diferentes tipos de auditorías, como las de datos, de algoritmos, de modelos o de impacto social. Además, existen guías o marcos de evaluación de IA como el **"AI Risk Management Framework" (NIST, 2023),** que nos ayudan a llevar a cabo estas revisiones de manera efectiva.[^24] 
 
-![js/Infografía Inteligencia Artificial Ilustrado Azul.jpg](js/Infografía Inteligencia Artificial Ilustrado Azul.jpg) 
+![js/InfografíaInteligenciaArtificialIlustradoAzul.jpg](js/InfografíaInteligenciaArtificialIlustradoAzul.jpg) 
 
 
 [^23]: UNESCO. (2021). *Recomendación sobre la ética de la inteligencia artificial* [versión en español]. [https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa](https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa)
